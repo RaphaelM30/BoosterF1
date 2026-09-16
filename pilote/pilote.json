@@ -1,0 +1,178 @@
+[
+  {
+    "name": "Kimi Antonelli",
+    "equipe": "Mercedes",
+    "numero": 12,
+    "victoires": 8,
+    "poles": 6,
+    "rarete": "Légendaire"
+  },
+  {
+    "name": "George Russell",
+    "equipe": "Mercedes",
+    "numero": 63,
+    "victoires": 9,
+    "poles": 16,
+    "rarete": "Épique"
+  },
+  {
+    "name": "Lewis Hamilton",
+    "equipe": "Ferrari",
+    "numero": 44,
+    "victoires": 107,
+    "poles": 104,
+    "rarete": "Légendaire"
+  },
+  {
+    "name": "Charles Leclerc",
+    "equipe": "Ferrari",
+    "numero": 16,
+    "victoires": 10,
+    "poles": 27,
+    "rarete": "Épique"
+  },
+  {
+    "name": "Lando Norris",
+    "equipe": "McLaren",
+    "numero": 1,
+    "victoires": 13,
+    "poles": 19,
+    "rarete": "Légendaire"
+  },
+  {
+    "name": "Oscar Piastri",
+    "equipe": "McLaren",
+    "numero": 81,
+    "victoires": 9,
+    "poles": 6,
+    "rarete": "Épique"
+  },
+  {
+    "name": "Max Verstappen",
+    "equipe": "Red Bull",
+    "numero": 3,
+    "victoires": 71,
+    "poles": 48,
+    "rarete": "Légendaire"
+  },
+  {
+    "name": "Liam Lawson",
+    "equipe": "Red Bull",
+    "numero": 30,
+    "victoires": 0,
+    "poles": 0,
+    "rarete": "Rare"
+  },
+  {
+    "name": "Yuki Tsunoda",
+    "equipe": "Racing Bulls",
+    "numero": 22,
+    "victoires": 0,
+    "poles": 0,
+    "rarete": "Rare"
+  },
+  {
+    "name": "Arvid Lindblad",
+    "equipe": "Racing Bulls",
+    "numero": 41,
+    "victoires": 0,
+    "poles": 0,
+    "rarete": "Commun"
+  },
+  {
+    "name": "Pierre Gasly",
+    "equipe": "Alpine",
+    "numero": 10,
+    "victoires": 1,
+    "poles": 1,
+    "rarete": "Rare"
+  },
+  {
+    "name": "Franco Colapinto",
+    "equipe": "Alpine",
+    "numero": 43,
+    "victoires": 0,
+    "poles": 0,
+    "rarete": "Commun"
+  },
+  {
+    "name": "Esteban Ocon",
+    "equipe": "Haas",
+    "numero": 31,
+    "victoires": 1,
+    "poles": 0,
+    "rarete": "Rare"
+  },
+  {
+    "name": "Oliver Bearman",
+    "equipe": "Haas",
+    "numero": 87,
+    "victoires": 0,
+    "poles": 0,
+    "rarete": "Commun"
+  },
+  {
+    "name": "Nico Hulkenberg",
+    "equipe": "Audi",
+    "numero": 27,
+    "victoires": 0,
+    "poles": 1,
+    "rarete": "Rare"
+  },
+  {
+    "name": "Gabriel Bortoleto",
+    "equipe": "Audi",
+    "numero": 5,
+    "victoires": 0,
+    "poles": 0,
+    "rarete": "Commun"
+  },
+  {
+    "name": "Carlos Sainz",
+    "equipe": "Williams",
+    "numero": 55,
+    "victoires": 4,
+    "poles": 6,
+    "rarete": "Épique"
+  },
+  {
+    "name": "Alexander Albon",
+    "equipe": "Williams",
+    "numero": 23,
+    "victoires": 0,
+    "poles": 0,
+    "rarete": "Commun"
+  },
+  {
+    "name": "Fernando Alonso",
+    "equipe": "Aston Martin",
+    "numero": 14,
+    "victoires": 32,
+    "poles": 22,
+    "rarete": "Légendaire"
+  },
+  {
+    "name": "Lance Stroll",
+    "equipe": "Aston Martin",
+    "numero": 18,
+    "victoires": 0,
+    "poles": 1,
+    "rarete": "Commun"
+  },
+  {
+    "name": "Sergio Perez",
+    "equipe": "Cadillac",
+    "numero": 11,
+    "victoires": 6,
+    "poles": 3,
+    "rarete": "Épique"
+  },
+  {
+    "name": "Valtteri Bottas",
+    "equipe": "Cadillac",
+    "numero": 77,
+    "victoires": 10,
+    "poles": 20,
+    "rarete": "Épique"
+  }
+]
