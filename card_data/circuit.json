@@ -6,8 +6,7 @@
     "pays": "Australie",
     "type": "Semi-urbain",
     "sprint": false,
-    "caracteristique": "Circuit rapide au cœur de Melbourne, réputé pour ses changements de direction et ses zones de dépassement",
-    "identite": "Ouverture de la saison"
+    "caracteristique": "Circuit rapide au cœur de Melbourne, réputé pour ses changements de direction et ses zones de dépassement"
   },
   {
     "name": "Shanghai International Circuit",
@@ -16,8 +15,7 @@
     "pays": "Chine",
     "type": "Permanent",
     "sprint": true,
-    "caracteristique": "Longues lignes droites, virages rapides et épingle exigeante",
-    "identite": "Premier Sprint de la saison 2026"
+    "caracteristique": "Longues lignes droites, virages rapides et épingle exigeante"
   },
   {
     "name": "Suzuka Circuit",
@@ -26,8 +24,7 @@
     "pays": "Japon",
     "type": "Permanent",
     "sprint": false,
-    "caracteristique": "Circuit en huit avec les Esses, Spoon et le mythique 130R",
-    "identite": "Technique et historique"
+    "caracteristique": "Circuit en huit avec les Esses, Spoon et le mythique 130R"
   },
   {
     "name": "Bahrain International Circuit",
@@ -36,8 +33,7 @@
     "pays": "Bahreïn",
     "type": "Permanent",
     "sprint": false,
-    "caracteristique": "Circuit désertique combinant gros freinages, longues lignes droites et gestion des pneumatiques",
-    "identite": "Course nocturne dans le désert"
+    "caracteristique": "Circuit désertique combinant gros freinages, longues lignes droites et gestion des pneumatiques"
   },
   {
     "name": "Jeddah Corniche Circuit",
@@ -46,8 +42,7 @@
     "pays": "Arabie Saoudite",
     "type": "Urbain",
     "sprint": false,
-    "caracteristique": "Circuit urbain extrêmement rapide longeant la mer Rouge",
-    "identite": "Vitesse et murs proches"
+    "caracteristique": "Circuit urbain extrêmement rapide longeant la mer Rouge"
   },
   {
     "name": "Miami International Autodrome",
@@ -56,8 +51,7 @@
     "pays": "États-Unis",
     "type": "Semi-urbain",
     "sprint": true,
-    "caracteristique": "Circuit autour du Hard Rock Stadium avec longues lignes droites et fortes accélérations",
-    "identite": "F1 moderne et ambiance américaine"
+    "caracteristique": "Circuit autour du Hard Rock Stadium avec longues lignes droites et fortes accélérations"
   },
   {
     "name": "Circuit Gilles-Villeneuve",
@@ -66,8 +60,7 @@
     "pays": "Canada",
     "type": "Semi-urbain",
     "sprint": true,
-    "caracteristique": "Circuit de freinage avec chicanes, longues lignes droites et murs proches",
-    "identite": "Le mur des champions"
+    "caracteristique": "Circuit de freinage avec chicanes, longues lignes droites et murs proches"
   },
   {
     "name": "Circuit de Monaco",
@@ -76,8 +69,7 @@
     "pays": "Monaco",
     "type": "Urbain",
     "sprint": false,
-    "caracteristique": "Rues étroites, faible marge d'erreur et célèbre passage autour du port",
-    "identite": "Tradition, prestige et précision"
+    "caracteristique": "Rues étroites, faible marge d'erreur et célèbre passage autour du port"
   },
   {
     "name": "Circuit de Barcelona-Catalunya",
@@ -86,8 +78,7 @@
     "pays": "Espagne",
     "type": "Permanent",
     "sprint": false,
-    "caracteristique": "Circuit polyvalent avec virages rapides, lents et longues courbes",
-    "identite": "Référence pour tester l'équilibre d'une monoplace"
+    "caracteristique": "Circuit polyvalent avec virages rapides, lents et longues courbes"
   },
   {
     "name": "Red Bull Ring",
@@ -96,8 +87,7 @@
     "pays": "Autriche",
     "type": "Permanent",
     "sprint": false,
-    "caracteristique": "Tour court composé de longues montées, freinages puissants et lignes droites",
-    "identite": "Course rapide au cœur des montagnes"
+    "caracteristique": "Tour court composé de longues montées, freinages puissants et lignes droites"
   },
   {
     "name": "Silverstone Circuit",
@@ -106,8 +96,7 @@
     "pays": "Royaume-Uni",
     "type": "Permanent",
     "sprint": true,
-    "caracteristique": "Circuit très rapide avec les enchaînements Maggotts, Becketts et Chapel",
-    "identite": "Lieu du premier Grand Prix du championnat du monde en 1950"
+    "caracteristique": "Circuit très rapide avec les enchaînements Maggotts, Becketts et Chapel"
   },
   {
     "name": "Circuit de Spa-Francorchamps",
@@ -116,8 +105,7 @@
     "pays": "Belgique",
     "type": "Permanent",
     "sprint": true,
-    "caracteristique": "Grand circuit vallonné avec Eau Rouge-Raidillon et longues lignes droites",
-    "identite": "Vitesse, dénivelé et météo imprévisible"
+    "caracteristique": "Grand circuit vallonné avec Eau Rouge-Raidillon et longues lignes droites"
   },
   {
     "name": "Hungaroring",
@@ -126,8 +114,7 @@
     "pays": "Hongrie",
     "type": "Permanent",
     "sprint": false,
-    "caracteristique": "Circuit sinueux avec peu de longues lignes droites",
-    "identite": "Un circuit exigeant pour les dépassements"
+    "caracteristique": "Circuit sinueux avec peu de longues lignes droites"
   },
   {
     "name": "Circuit Zandvoort",
@@ -136,8 +123,7 @@
     "pays": "Pays-Bas",
     "type": "Permanent",
     "sprint": true,
-    "caracteristique": "Circuit vallonné et rapide avec plusieurs virages relevés",
-    "identite": "Grande ambiance orange autour de Max Verstappen"
+    "caracteristique": "Circuit vallonné et rapide avec plusieurs virages relevés"
   },
   {
     "name": "Autodromo Nazionale Monza",
@@ -146,8 +132,7 @@
     "pays": "Italie",
     "type": "Permanent",
     "sprint": false,
-    "caracteristique": "Très longues lignes droites et faible niveau d'appui aérodynamique",
-    "identite": "Le Temple de la vitesse"
+    "caracteristique": "Très longues lignes droites et faible niveau d'appui aérodynamique"
   },
   {
     "name": "Madring",
@@ -156,8 +141,7 @@
     "pays": "Espagne",
     "type": "Urbain et permanent",
     "sprint": false,
-    "caracteristique": "Nouveau circuit espagnol accueillant son premier Grand Prix de F1 en 2026",
-    "identite": "Nouveau rendez-vous de la saison"
+    "caracteristique": "Nouveau circuit espagnol accueillant son premier Grand Prix de F1 en 2026"
   },
   {
     "name": "Baku City Circuit",
@@ -166,8 +150,7 @@
     "pays": "Azerbaïdjan",
     "type": "Urbain",
     "sprint": false,
-    "caracteristique": "Combinaison de rues étroites et d'une immense ligne droite",
-    "identite": "Chaos potentiel et courses imprévisibles"
+    "caracteristique": "Combinaison de rues étroites et d'une immense ligne droite"
   },
   {
     "name": "Marina Bay Street Circuit",
@@ -176,8 +159,7 @@
     "pays": "Singapour",
     "type": "Urbain",
     "sprint": true,
-    "caracteristique": "Circuit urbain nocturne très technique et physiquement exigeant",
-    "identite": "Course de nuit sous les projecteurs"
+    "caracteristique": "Circuit urbain nocturne très technique et physiquement exigeant"
   },
   {
     "name": "Circuit of The Americas",
@@ -186,8 +168,7 @@
     "pays": "États-Unis",
     "type": "Permanent",
     "sprint": true,
-    "caracteristique": "Grand dénivelé, virages variés et montée spectaculaire vers le premier virage",
-    "identite": "Le grand classique américain de la F1 moderne"
+    "caracteristique": "Grand dénivelé, virages variés et montée spectaculaire vers le premier virage"
   },
   {
     "name": "Autódromo Hermanos Rodríguez",
@@ -196,8 +177,7 @@
     "pays": "Mexique",
     "type": "Permanent",
     "sprint": false,
-    "caracteristique": "Altitude élevée et célèbre passage dans le stade",
-    "identite": "Ambiance mexicaine et altitude"
+    "caracteristique": "Altitude élevée et célèbre passage dans le stade"
   },
   {
     "name": "Autódromo José Carlos Pace",
@@ -206,8 +186,7 @@
     "pays": "Brésil",
     "type": "Permanent",
     "sprint": true,
-    "caracteristique": "Circuit vallonné avec le célèbre enchaînement Senna S et une forte ambiance populaire",
-    "identite": "Histoire, pluie et passion brésilienne"
+    "caracteristique": "Circuit vallonné avec le célèbre enchaînement Senna S et une forte ambiance populaire"
   },
   {
     "name": "Las Vegas Strip Circuit",
@@ -216,8 +195,7 @@
     "pays": "États-Unis",
     "type": "Urbain",
     "sprint": false,
-    "caracteristique": "Longues lignes droites sur le Strip et course nocturne",
-    "identite": "Spectacle nocturne au cœur de Las Vegas"
+    "caracteristique": "Longues lignes droites sur le Strip et course nocturne"
   },
   {
     "name": "Lusail International Circuit",
@@ -226,8 +204,7 @@
     "pays": "Qatar",
     "type": "Permanent",
     "sprint": false,
-    "caracteristique": "Circuit rapide avec nombreuses courbes et course organisée de nuit",
-    "identite": "Finale asiatique sous les projecteurs"
+    "caracteristique": "Circuit rapide avec nombreuses courbes et course organisée de nuit"
   },
   {
     "name": "Yas Marina Circuit",
@@ -236,7 +213,6 @@
     "pays": "Émirats arabes unis",
     "type": "Permanent",
     "sprint": false,
-    "caracteristique": "Circuit moderne avec longues lignes droites et secteurs techniques",
-    "identite": "Finale traditionnelle de la saison"
+    "caracteristique": "Circuit moderne avec longues lignes droites et secteurs techniques"
   }
 ]

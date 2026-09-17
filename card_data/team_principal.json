@@ -1,0 +1,101 @@
+[
+  {
+    "name": "Andrea Stella",
+    "equipe": "McLaren",
+    "nationalite": "Italien",
+    "role": "Team Principal",
+    "depuis": 2022,
+    "profil": "Ingénieur et spécialiste de la performance",
+    "rarete": "Légendaire"
+  },
+  {
+    "name": "Toto Wolff",
+    "equipe": "Mercedes",
+    "nationalite": "Autrichien",
+    "role": "Team Principal et CEO",
+    "depuis": 2013,
+    "profil": "Dirigeant, investisseur et ancien pilote",
+    "rarete": "Légendaire"
+  },
+  {
+    "name": "Laurent Mekies",
+    "equipe": "Red Bull Racing",
+    "nationalite": "Français",
+    "role": "Team Principal",
+    "depuis": 2025,
+    "profil": "Ingénieur et spécialiste des opérations sportives",
+    "rarete": "Épique"
+  },
+  {
+    "name": "Frédéric Vasseur",
+    "equipe": "Ferrari",
+    "nationalite": "Français",
+    "role": "Team Principal",
+    "depuis": 2023,
+    "profil": "Ingénieur et dirigeant d'équipes de sport automobile",
+    "rarete": "Légendaire"
+  },
+  {
+    "name": "James Vowles",
+    "equipe": "Williams",
+    "nationalite": "Britannique",
+    "role": "Team Principal",
+    "depuis": 2023,
+    "profil": "Spécialiste de la stratégie et de l'ingénierie",
+    "rarete": "Épique"
+  },
+  {
+    "name": "Alan Permane",
+    "equipe": "Racing Bulls",
+    "nationalite": "Britannique",
+    "role": "Team Principal",
+    "depuis": 2025,
+    "profil": "Ingénieur avec une longue expérience technique et sportive",
+    "rarete": "Épique"
+  },
+  {
+    "name": "Adrian Newey",
+    "equipe": "Aston Martin",
+    "nationalite": "Britannique",
+    "role": "Team Principal et Managing Technical Partner",
+    "depuis": 2026,
+    "profil": "Ingénieur aérodynamicien et concepteur de monoplaces",
+    "rarete": "Mythique"
+  },
+  {
+    "name": "Ayao Komatsu",
+    "equipe": "Haas",
+    "nationalite": "Japonais",
+    "role": "Team Principal",
+    "depuis": 2024,
+    "profil": "Ingénieur de performance et de course",
+    "rarete": "Épique"
+  },
+  {
+    "name": "Mattia Binotto",
+    "equipe": "Audi",
+    "nationalite": "Italien",
+    "role": "Team Principal",
+    "depuis": 2026,
+    "profil": "Ingénieur moteur et ancien dirigeant de Ferrari",
+    "rarete": "Légendaire"
+  },
+  {
+    "name": "Flavio Briatore",
+    "equipe": "Alpine",
+    "nationalite": "Italien",
+    "role": "Executive Advisor",
+    "depuis": 2024,
+    "profil": "Dirigeant historique du sport automobile",
+    "rarete": "Légendaire"
+  },
+  {
+    "name": "Marcin Budkowski",
+    "equipe": "Cadillac",
+    "nationalite": "Polonais",
+    "role": "Team Principal",
+    "depuis": 2026,
+    "profil": "Ingénieur et dirigeant technique",
+    "rarete": "Épique"
+  }
+]
