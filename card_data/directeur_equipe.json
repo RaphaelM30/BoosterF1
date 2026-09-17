@@ -1,0 +1,123 @@
+[
+  {
+    "name": "Andrea Stella",
+    "equipe": "McLaren",
+    "nationalite": "Italien",
+    "role": "Team Principal",
+    "depuis": 2022,
+    "profil": "Ingénieur et spécialiste de la performance",
+    "fait_representatif": "A travaillé avec Michael Schumacher, Kimi Räikkönen et Fernando Alonso avant de diriger McLaren",
+    "palmares_equipe_recent": "McLaren a remporté les championnats constructeurs 2024 et 2025",
+    "rarete": "Légendaire"
+  },
+  {
+    "name": "Toto Wolff",
+    "equipe": "Mercedes",
+    "nationalite": "Autrichien",
+    "role": "Team Principal et CEO",
+    "depuis": 2013,
+    "profil": "Dirigeant, investisseur et ancien pilote",
+    "fait_representatif": "A dirigé Mercedes durant sa période de domination avec huit titres constructeurs consécutifs de 2014 à 2021",
+    "palmares_equipe_recent": "Mercedes est l'équipe actuellement en tête du championnat 2026 après 14 Grands Prix",
+    "rarete": "Légendaire"
+  },
+  {
+    "name": "Laurent Mekies",
+    "equipe": "Red Bull Racing",
+    "nationalite": "Français",
+    "role": "Team Principal",
+    "depuis": 2025,
+    "profil": "Ingénieur et spécialiste des opérations sportives",
+    "fait_representatif": "A travaillé chez Minardi, Toro Rosso, la FIA et Ferrari avant de rejoindre Red Bull",
+    "palmares_equipe_recent": "A pris la direction de Red Bull après le départ de Christian Horner",
+    "rarete": "Épique"
+  },
+  {
+    "name": "Frédéric Vasseur",
+    "equipe": "Ferrari",
+    "nationalite": "Français",
+    "role": "Team Principal",
+    "depuis": 2023,
+    "profil": "Ingénieur et ancien dirigeant d'équipes de catégories junior et de F1",
+    "fait_representatif": "A cofondé ART Grand Prix et a ensuite dirigé Renault puis Sauber/Alfa Romeo",
+    "palmares_equipe_recent": "Ferrari est l'équipe ayant participé à toutes les saisons du championnat du monde depuis 1950",
+    "rarete": "Légendaire"
+  },
+  {
+    "name": "James Vowles",
+    "equipe": "Williams",
+    "nationalite": "Britannique",
+    "role": "Team Principal",
+    "depuis": 2023,
+    "profil": "Spécialiste de la stratégie et de l'ingénierie",
+    "fait_representatif": "Ancien responsable de stratégie chez Mercedes et membre de l'équipe championne Brawn GP en 2009",
+    "palmares_equipe_recent": "Williams a terminé cinquième du championnat constructeurs 2025",
+    "rarete": "Épique"
+  },
+  {
+    "name": "Alan Permane",
+    "equipe": "Racing Bulls",
+    "nationalite": "Britannique",
+    "role": "Team Principal",
+    "depuis": 2025,
+    "profil": "Ingénieur ayant une longue expérience technique et sportive",
+    "fait_representatif": "A passé plusieurs décennies dans la structure d'Enstone avant de rejoindre Racing Bulls",
+    "palmares_equipe_recent": "Racing Bulls est l'ancienne structure Toro Rosso, AlphaTauri puis RB",
+    "rarete": "Épique"
+  },
+  {
+    "name": "Adrian Newey",
+    "equipe": "Aston Martin",
+    "nationalite": "Britannique",
+    "role": "Team Principal et Managing Technical Partner",
+    "depuis": 2026,
+    "profil": "Ingénieur aérodynamicien et concepteur de monoplaces",
+    "fait_representatif": "A conçu des voitures championnes chez Williams, McLaren et Red Bull",
+    "palmares_equipe_recent": "Il devient Team Principal d'Aston Martin pour la première fois en 2026",
+    "rarete": "Mythique"
+  },
+  {
+    "name": "Ayao Komatsu",
+    "equipe": "Haas",
+    "nationalite": "Japonais",
+    "role": "Team Principal",
+    "depuis": 2024,
+    "profil": "Ingénieur de performance et de course",
+    "fait_representatif": "A rejoint Haas dès 2016 après des expériences chez BAR et Renault",
+    "palmares_equipe_recent": "Il dirige Haas dans sa onzième saison de F1",
+    "rarete": "Épique"
+  },
+  {
+    "name": "Mattia Binotto",
+    "equipe": "Audi",
+    "nationalite": "Italien",
+    "role": "Team Principal",
+    "depuis": 2026,
+    "profil": "Ingénieur moteur et ancien dirigeant de Ferrari",
+    "fait_representatif": "Il dirige le projet Audi F1 après avoir été Team Principal de Ferrari",
+    "palmares_equipe_recent": "Audi fait ses débuts comme équipe officielle en F1 en 2026",
+    "rarete": "Légendaire"
+  },
+  {
+    "name": "Flavio Briatore",
+    "equipe": "Alpine",
+    "nationalite": "Italien",
+    "role": "Executive Advisor et responsable de la direction de l'équipe",
+    "depuis": 2024,
+    "profil": "Dirigeant historique du sport automobile",
+    "fait_representatif": "A connu des titres avec Benetton puis Renault notamment avec Michael Schumacher et Fernando Alonso",
+    "palmares_equipe_recent": "Alpine utilise des moteurs Mercedes depuis 2026",
+    "rarete": "Légendaire"
+  },
+  {
+    "name": "Marcin Budkowski",
+    "equipe": "Cadillac",
+    "nationalite": "Polonais",
+    "role": "Team Principal",
+    "depuis": 2026,
+    "profil": "Ingénieur et dirigeant technique",
+    "fait_representatif": "A travaillé chez Ferrari, McLaren, Renault et la FIA avant de rejoindre Cadillac",
+    "palmares_equipe_recent": "Il a remplacé Graeme Lowdon comme Team Principal de Cadillac après la pause estivale 2026",
+    "rarete": "Épique"
+  }
+]
