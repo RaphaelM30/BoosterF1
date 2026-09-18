@@ -1,6 +1,5 @@
 import random
 
-
 class Booster:
     """Class to create a booster containing cards."""
 
@@ -30,13 +29,11 @@ class Booster:
         self.booster_card = random.sample(self.cards, number)
 
     def __str__(self):
-        """Return a better display of the cards."""
-        result = ""
+        result = "\n========== F1 BOOSTER ==========\n"
 
-        for card in self.booster_card:
-            result += "--------------------\n"
-            result += str(card) + "\n"
+        for i, card in enumerate(self.booster_card, 1):
+            result += f"{i}. {card}\n"
 
-        result += "--------------------"
+        result += "================================"
 
         return result

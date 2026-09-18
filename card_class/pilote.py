@@ -52,6 +52,5 @@ class Pilote:
                     pilote["rarete"]
                 )
             )
-        print(pilotes_list)
 
         return pilotes_list
