@@ -6,7 +6,10 @@ from card_class.pilote import Pilote
 from card_class.ecurie import Ecurie
 
 class Menu:
+    """Class to create and manage the main menu of the F1 Booster."""
+
     def __init__(self):
+        """Create the menu and load all the card instances."""
         print(" Welcome in the F1 Booster opening ".center(45, "="))
 
         self.pilotes = Pilote.create_instances()
@@ -16,6 +19,8 @@ class Menu:
         self.run()
 
     def run(self):
+        """Display the menu and handle the user's choices."""
+
         while True:
             print("\n1. Open a booster")
             print("2. Exit")
@@ -39,6 +44,3 @@ class Menu:
 
                 case _:
                     print("Invalid choice.")
-
-
-menu = Menu()
