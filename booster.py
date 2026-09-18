@@ -1,29 +1,32 @@
-import json, random
+import random
 
 
 class Booster:
-    """Class to create a booster containing cards from JSON files."""
+    """Class to create a booster containing cards."""
 
-    def __init__(self, card_number=5, *files):
-        """Create a booster from one or several JSON files.
+    def __init__(self, card_number: int, *cards_lists):
+        """Create a booster.
 
         Args:
             card_number (int): Number of cards in the booster.
-            *files (str): Paths to the JSON files containing the cards.
+            *cards_lists (list): Lists containing the card instances.
         """
+        assert card_number > 0
+        assert len(cards_lists) > 0
+
         self.cards = []
-        self.booster_card = []
 
-        for file_path in files:
-            with open(file_path, "r", encoding="utf-8") as file:
-                data = json.load(file)
-
-            self.cards.extend(data)
+        for cards_list in cards_lists:
+            self.cards.extend(cards_list)
 
         self.choice_random_card(card_number)
 
-    def choice_random_card(self, number):
+    def choice_random_card(self, number: int):
         """Choose random cards from the available cards."""
+        assert isinstance(number, int)
+        assert number > 0
+        assert number <= len(self.cards)
+
         self.booster_card = random.sample(self.cards, number)
 
     def __str__(self):
@@ -32,14 +35,8 @@ class Booster:
 
         for card in self.booster_card:
             result += "--------------------\n"
-
-            for key, value in card.items():
-                result += f"{key} : {value}\n"
+            result += str(card) + "\n"
 
         result += "--------------------"
 
         return result
-
-
-booster = Booster(5, "card_data/circuit.json","card_data/ecuries.json","card_data/team_principal.json","card_data/pilotes.json")
-print(booster)
